@@ -7,7 +7,8 @@ https://www.getabstract.com/en/
 kindle readers  
 non-fiction summaries  
 
-www.conceptmeister.net  
+www.conceptmeister.net 
+www.intellexer.com
 
 ## Interface  
 Use several input and subscription model for the magazines  
