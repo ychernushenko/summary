@@ -23,3 +23,7 @@ summary of video
 ## Approach
 Substractive (Tfidf, LDA, gensim)
 Generative
+
+## Feature
+Show text complexity and summary correctness
+
