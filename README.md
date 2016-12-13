@@ -7,7 +7,7 @@ https://www.getabstract.com/en/
 kindle readers  
 non-fiction summaries  
 
-www.conceptmeister.net 
+www.conceptmeister.net   
 www.intellexer.com
 
 ## Interface  
@@ -27,4 +27,8 @@ Generative
 
 ## Feature
 Show text complexity and summary correctness
+
+
+## Sources  
+https://catalog.ldc.upenn.edu/LDC2012T21   
 
