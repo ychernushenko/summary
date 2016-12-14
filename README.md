@@ -30,5 +30,6 @@ Show text complexity and summary correctness
 
 
 ## Sources  
-https://catalog.ldc.upenn.edu/LDC2012T21   
+https://catalog.ldc.upenn.edu/LDC2012T21     
+http://wiki.dbpedia.org/     
 
