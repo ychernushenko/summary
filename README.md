@@ -36,3 +36,7 @@ http://wiki.dbpedia.org/
 http://www-nlpir.nist.gov/related_projects/tipster_summac/cmp_lg.html       
 http://www-personal.umich.edu/~vahed/data.html   
 http://groups.inf.ed.ac.uk/ami/download/    
+
+## Competitors  
+http://www.fastforwardlabs.com/brief/   
+https://www.agolo.com/splash  
