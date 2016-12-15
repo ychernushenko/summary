@@ -22,8 +22,9 @@ try different kind of plots - https://www.amazon.com/Decision-Book-Models-Strate
 summary of video
 
 ## Approach
-Substractive (Tfidf, LDA, gensim)
-Generative
+Substractive (Tfidf, LDA, gensim)  
+Generative   
+https://habrahabr.ru/post/271771/   
 
 ## Feature
 Show text complexity and summary correctness
