@@ -44,3 +44,7 @@ mechanical turk
 ## Competitors  
 http://www.fastforwardlabs.com/brief/   
 https://www.agolo.com/splash  
+
+## Scaraping   
+http://www.octoparse.com/    
+https://scrapy.org/   
