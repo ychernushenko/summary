@@ -37,6 +37,9 @@ http://www-nlpir.nist.gov/related_projects/tipster_summac/cmp_lg.html
 http://www-personal.umich.edu/~vahed/data.html   
 http://groups.inf.ed.ac.uk/ami/download/    
 http://www.msmarco.org/   
+academic papers    
+news and captions   
+mechanical turk    
 
 ## Competitors  
 http://www.fastforwardlabs.com/brief/   
